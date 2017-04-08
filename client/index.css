@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#newUser {
+  padding: 10px;
+  margin: 20px auto;
+  max-width: 500px;
+  border: 1px solid gray;
+}
